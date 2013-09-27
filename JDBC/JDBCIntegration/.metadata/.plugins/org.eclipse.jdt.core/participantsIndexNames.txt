@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+D:\core-java\CoreJava\JDBC\JDBCIntegration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3270034574.index
+\com.sudheer.jdbc\src\main\resources
+D:\core-java\CoreJava\JDBC\JDBCIntegration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\32312629.index
+\JSF-JDBC-Integration\src\main\resources

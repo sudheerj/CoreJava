@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JSF-JDBC-Integration/src/main/java/com/mkyong&apos; to &apos;sudheer&apos;" description="Rename resource &apos;mkyong&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/mkyong" name="sudheer" stamp="1380126011488" updateReferences="true"/>
+</session>

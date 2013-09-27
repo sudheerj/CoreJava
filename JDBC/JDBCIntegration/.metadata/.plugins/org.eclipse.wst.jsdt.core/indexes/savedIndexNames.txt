@@ -1,0 +1,9 @@
+INDEX VERSION 1.122+D:\core-java\CoreJava\JDBC\JDBCIntegration\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1923190450.index
+2950757545.index
+32312629.index
+32312629.index
+1382393037.index
+2331411212.index
+3929147572.index
+3970665042.index
